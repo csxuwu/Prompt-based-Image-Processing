@@ -4,13 +4,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Paper Reading](https://img.shields.io/badge/Fields-CV-blue)
 
-This is a collection of papers I have read (carefully or roughly) in the fields of prompt-based image processing. The collection will be continuously updated, so stay tuned. Any suggestions and comments are welcome (csxunwu@gmail.com). 
+This is a collection of papers I have read (carefully or roughly) in the fields of prompt-based image processing/editing and related works. The collection will be continuously updated, so stay tuned. Any suggestions and comments are welcome (csxunwu@gmail.com). 
 
 
 ## 2021
 1. Kwon G, Ye J C. Clipstyler: Image style transfer with a single text condition[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 18062-18071.
 2. Patashnik O, Wu Z, Shechtman E, et al. Styleclip: Text-driven manipulation of stylegan imagery[C]//Proceedings of the IEEE/CVF international conference on computer vision. 2021: 2085-2094.
-3. 
 
 ## 2022
 1. Bar A, Gandelsman Y, Darrell T, et al. Visual prompting via image inpainting[J]. Advances in Neural Information Processing Systems, 2022, 35: 25005-25017.
