@@ -25,7 +25,12 @@ This is a collection of papers I have read (carefully or roughly) in the fields 
 11. Potlapalli V, Zamir S W, Khan S, et al. Promptir: Prompting for all-in-one blind image restoration[J]. arXiv preprint arXiv:2306.13090, 2023.
 12. Wang X, Wang W, Cao Y, et al. Images speak in images: A generalist painter for in-context visual learning[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 6830-6839.
 13. Ma J, Cheng T, Wang G, et al. Prores: Exploring degradation-aware visual prompt for universal image restoration[J]. arXiv preprint arXiv:2306.13653, 2023.
-14. Nguyen T, Ojha U, Li Y, et al. Edit One for All: Interactive Batch Image Editing[J]. arXiv preprint arXiv:2401.10219, 2024.
+
+## 2024
+1. Nguyen T, Ojha U, Li Y, et al. Edit One for All: Interactive Batch Image Editing[J]. arXiv preprint arXiv:2401.10219, 2024.
+2. Kong X, Dong C, Zhang L. Towards Effective Multiple-in-One Image Restoration: A Sequential and Prompt Learning Strategy[J]. arXiv preprint arXiv:2401.03379, 2024.
+3. Wang T, Lu W, Zhang K, et al. PromptRR: Diffusion Models as Prompt Generators for Single Image Reflection Removal[J]. arXiv preprint arXiv:2402.02374, 2024.
+4. Conde M V, Geigle G, Timofte R. High-Quality Image Restoration Following Human Instructions[J]. arXiv preprint arXiv:2401.16468, 2024.
 
 
 
