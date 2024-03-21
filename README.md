@@ -7,9 +7,19 @@
 This is a collection of papers I have read (carefully or roughly) in the fields of prompt-based image processing. The collection will be continuously updated, so stay tuned. Any suggestions and comments are welcome (csxunwu@gmail.com). 
 
 
+## 2021
+1. Kwon G, Ye J C. Clipstyler: Image style transfer with a single text condition[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 18062-18071.
+2. Patashnik O, Wu Z, Shechtman E, et al. Styleclip: Text-driven manipulation of stylegan imagery[C]//Proceedings of the IEEE/CVF international conference on computer vision. 2021: 2085-2094.
+3. 
+
 ## 2022
 1. Bar A, Gandelsman Y, Darrell T, et al. Visual prompting via image inpainting[J]. Advances in Neural Information Processing Systems, 2022, 35: 25005-25017.
 2. Li B, Liu X, Hu P, et al. All-in-one image restoration for unknown corruption[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 17452-17462.
+3. Ramesh A, Dhariwal P, Nichol A, et al. Hierarchical text-conditional image generation with clip latents[J]. arXiv preprint arXiv:2204.06125, 2022, 1(2): 3.
+4. Kim G, Kwon T, Ye J C. Diffusionclip: Text-guided diffusion models for robust image manipulation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 2426-2435.
+5. Avrahami O, Lischinski D, Fried O. Blended diffusion for text-driven editing of natural images[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 18208-18218.
+6. Gu S, Chen D, Bao J, et al. Vector quantized diffusion model for text-to-image synthesis[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022: 10696-10706.
+7. Zhou K, Yang J, Loy C C, et al. Learning to prompt for vision-language models[J]. International Journal of Computer Vision, 2022, 130(9): 2337-2348.
 
 ## 2023
 1. Yan Q, Jiang A, Chen K, et al. Textual Prompt Guided Image Restoration[J]. arXiv preprint arXiv:2312.06162, 2023.
